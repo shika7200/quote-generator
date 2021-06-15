@@ -1,3 +1,1 @@
-# template-tes
-# test-template
-# template-test1
+Цитаты великих людей на каждый день!
